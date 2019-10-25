@@ -8,7 +8,8 @@
       "pin": "វត្តភ្នំ",
       "item": "10",
       "day": "Today",
-      "pickUptimeId": "3"
+      "startTime": "08:30",
+      "endTime":"09:30"
     },
     {
       "id": "2",
@@ -18,7 +19,8 @@
       "pin": "វត្តភ្នំ",
       "item": "10",
       "day": "Today",
-      "pickUptimeId": "2"
+      "startTime": "10:30",
+      "endTime":"11:30"
     },
     {
       "id": "3",
@@ -28,7 +30,8 @@
       "pin": "វត្តភ្នំ",
       "item": "10",
       "day": "Today",
-      "pickUptimeId": "3"
+      "startTime": "12:30",
+      "endTime":"01:30"
     },
     {
       "id": "4",
@@ -38,7 +41,8 @@
       "pin": "វត្តភ្នំ",
       "item": "10",
       "day": "Today",
-      "pickUptimeId": "2"
+      "startTime": "02:30",
+      "endTime":"03:30"
     },
     {
       "id": "5",
@@ -48,24 +52,8 @@
       "pin": "វត្តភ្នំ",
       "item": "10",
       "day": "Today",
-      "pickUptimeId": "1"
-    }
-  ],
-  "pickUptimes": [
-    {
-      "id": "1",
-      "start": "08:30",
-      "end": "09:30"
-    },
-    {
-      "id": "2",
-      "start": "12:30",
-      "end": "01:30"
-    },
-    {
-      "id": "3",
-      "start": "3:30",
-      "end": "4:30"
+      "startTime": "04:30",
+      "endTime":"05:30"
     }
   ]
 }
