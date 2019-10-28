@@ -98,12 +98,24 @@
       "title": "Monument Bookstore",
       "code": "000083735",
       "phone": "014 555 666",
-      "address": "#33, St 200, PP",
+      "address": "#33, St 300, PP",
       "location": "Toul Kork",
-      "price": "$20",
+      "price": "$15.3",
       "label": "Today",
       "start": "10:00",
       "end": "10:30"
+    },
+    {
+      "id": "5",
+      "title": "Beauty Store",
+      "code": "000083736",
+      "phone": "015 666 777",
+      "address": "#34, St 305, PP",
+      "location": "Toul Kork",
+      "price": "$18.3",
+      "label": "Today",
+      "start": "04:00",
+      "end": "05:30"
     }
   ]
 }
