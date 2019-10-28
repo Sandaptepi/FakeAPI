@@ -60,6 +60,7 @@
     {
       "id": "1",
       "title": "Nana Onlineshop Downtown",
+      "code": "000083732",
       "phone": "070 222 333",
       "address": "#34, St 261, SR",
       "location": "វត្តភ្នំ",
@@ -71,7 +72,8 @@
     {
       "id": "2",
       "title": "Jelly Bunny",
-      "phone": "070 222 333",
+      "code": "000083733",
+      "phone": "012 333 444",
       "address": "#34, St 261, SR",
       "location": "Wattanak Capital",
       "price": "$28.5",
