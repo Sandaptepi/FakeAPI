@@ -59,27 +59,51 @@
   "delivery": [
     {
       "id": "1",
-      "title": "Nana Onlineshop Downtown",
+      "title": "Nana Onlineshop",
       "code": "000083732",
       "phone": "070 222 333",
-      "address": "#34, St 261, SR",
+      "address": "#34, St 261, PP",
       "location": "វត្តភ្នំ",
       "price": "$23.5",
       "label": "Today",
-      "start": "08:30",
-      "end": "09:30"
+      "start": "08:00",
+      "end": "09:00"
     },
     {
       "id": "2",
       "title": "Jelly Bunny",
       "code": "000083733",
       "phone": "012 333 444",
-      "address": "#34, St 261, SR",
+      "address": "#35, St 265, PP",
       "location": "Wattanak Capital",
       "price": "$28.5",
       "label": "Today",
       "start": "08:30",
       "end": "09:30"
+    },
+    {
+      "id": "3",
+      "title": "ZANDO",
+      "code": "000083734",
+      "phone": "013 444 555",
+      "address": "#33, St 200, PP",
+      "location": "IFL",
+      "price": "$20",
+      "label": "Today",
+      "start": "09:00",
+      "end": "09:30"
+    },
+    {
+      "id": "4",
+      "title": "Monument Bookstore",
+      "code": "000083734",
+      "phone": "013 444 555",
+      "address": "#33, St 200, PP",
+      "location": "Toul Kork",
+      "price": "$20",
+      "label": "Today",
+      "start": "10:00",
+      "end": "10:30"
     }
   ]
 }
